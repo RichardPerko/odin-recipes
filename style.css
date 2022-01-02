@@ -1,0 +1,13 @@
+.menu{
+    margin: 0 auto;
+    text-align: center;
+    font-size: xx-large;
+    color: blueviolet;
+    font-weight: bold;
+}
+.head{
+    text-align: center;
+    font-size: 72px;
+    background-color: cornflowerblue;
+    font-weight: bold;
+}
