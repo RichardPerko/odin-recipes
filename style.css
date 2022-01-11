@@ -13,6 +13,6 @@
     font-weight: bold;
 }
 .dessertmenu{
-    object-position: center;
-    object-fit: cover;
+    display: block;
+    margin: auto;
 }
